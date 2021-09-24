@@ -1,0 +1,14 @@
+.dark {
+  height: 100vh;
+  background-color: #323539;
+}
+
+.form {
+  width: 25vw;
+  margin: 0 auto;
+  padding-top: 10vh;
+}
+
+.formtext {
+  color: white
+}
