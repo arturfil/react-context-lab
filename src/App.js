@@ -29,8 +29,8 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Damn you FAT</h2>
-      <p>Diet tracking App</p>
+      <h2>Food Tracking</h2>
+      <p>Favorite Foods</p>
       <form>
         <input
           onChange={handleChange}
@@ -65,7 +65,7 @@ function App() {
           name="calories"
         />
         <br />
-        <button onClick={handleSubmit}>Submit this shit</button>
+        <button onClick={handleSubmit}>Add Food</button>
         <div>
           {foods &&
             foods.map((food, index) => <div key={index}>{food.foodName}</div>)}
