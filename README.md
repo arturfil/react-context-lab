@@ -1,6 +1,6 @@
 # React Context Lab
 
-## Iteration 1
+<!-- ## Iteration 1
 - Create Auth Context File
 * Create the Context and Provider in that file
 * Create a folder 'context' and the context file within
@@ -8,7 +8,7 @@
 ## Iteration 2
 * Make sure you wrap your app with the 'Provider'
 * You need to have inital State
-* Make use of functions if needed
+* Make use of functions if needed -->
 
 ## Iteration 3
 - In you App.js File, display the information from the db.json
